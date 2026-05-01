@@ -1,0 +1,7 @@
+customer_id,name,email,region,signup_date
+1, John Doe ,JOHN@EMAIL.COM,North,2023-01-15
+2, Alice Smith ,alice@email.com,South,15/02/2023
+3, Bob Lee,,West,03-20-2023
+1, John Doe ,john.doe@email.com,North,2023-02-01
+4, Charlie Brown ,charlie@email.com,,2023-04-10
+5, Emma Watson ,emma@domain.com,East,invalid_date

@@ -1,0 +1,3 @@
+customer_id,name,region,total_spend,churned
+1,John Doe,North,1200,False
+2,Alice Smith,South,1000,False

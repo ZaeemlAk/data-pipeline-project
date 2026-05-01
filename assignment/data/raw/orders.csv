@@ -1,0 +1,7 @@
+order_id,customer_id,product,amount,order_date,status
+101,1,Laptop,1200,2023-03-01,Completed
+102,2,Phone,,01/04/2023,done
+103,3,Tablet,300,04-15-2023,pending
+104,,Laptop,1000,2023-05-01,completed
+105,5,Headphones,,15/05/2023,canceled
+106,2,Phone,500,invalid_date,Completed
